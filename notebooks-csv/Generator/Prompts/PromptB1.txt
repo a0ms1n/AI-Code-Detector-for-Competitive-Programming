@@ -1,0 +1,3 @@
+You are a programmer. Your task is to solve the problem below using C++.
+answer your answer with ```cpp {code} ``` format and do not provide other text except code.
+You could write comment in your code.

@@ -1,0 +1,8 @@
+Solving this problem in C++
+Output 'code only' in
+
+```cpp  
+(code) 
+```
+
+format

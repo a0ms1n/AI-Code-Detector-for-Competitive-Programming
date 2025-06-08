@@ -1,0 +1,7 @@
+Solve this competitive programming problem and give me an answer in C++ 
+**Without explaination, just give me the source code.
+
+- Don't comment code.
+- Write a code like human as you can.
+
+answer your answer with ```cpp {code} ``` format and do not provide other text except code.

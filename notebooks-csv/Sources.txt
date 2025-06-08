@@ -1,0 +1,23 @@
+Codeforces1 (Source Code):
+https://www.kaggle.com/datasets/agrigorev/codeforces-code
+
+Codeforces2 (Source Code):
+https://www.kaggle.com/datasets/yeoyunsianggeremie/codeforces-code-dataset
+
+Codeforces3 (Source Code): (CAN'T UNZIP)
+https://www.kaggle.com/datasets/phandinhkhoi/codeforces-dataset
+
+Codeforces Statement 1:
+https://www.kaggle.com/datasets/immortal3/codeforces-dataset
+
+Codeforces Statement 2:
+https://www.kaggle.com/datasets/erchhh/codeforces-problemset
+
+CodeforcesSatement 3 + Codeforces4:
+https://www.kaggle.com/datasets/dinuiongeorge/codeforces-competitive-programming-dataset
+
+Codeforces R1 Generated 1:
+https://huggingface.co/datasets/open-r1/codeforces-cots
+
+Codeforces R1 Generated 2:
+https://huggingface.co/datasets/mlfoundations-dev/openr1_codeforces

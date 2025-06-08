@@ -1,5 +1,5 @@
 # AI  Code Detector for Competitive Programming
-## ** AI Builders 2025 **
+** AI Builders 2025 **
 
 ## 🎯 Project Overview 🎯
 This project focuses on building a machine learning model to **detect AI-generated C++ code** in the context of competitive programming. To classify between code written by humans and that produced by AI models.

@@ -20,7 +20,7 @@ This project focuses on building a machine learning model to **detect AI-generat
 - **[@Gabriel-Dalton](https://github.com/Gabriel-Dalton/AI-Code-Detector)**
   For the baseline (AI Code Detector)
 
-- **People from the discord [Neighborhood Cat's server](https://discord.gg/QAwCCgP5jb)**
+- **People from the discord [Neighborhood Cat's server](https://discord.gg/bc39JCRq7j)**
   Tester of my models. 
 
 

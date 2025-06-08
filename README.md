@@ -1,5 +1,5 @@
 # AI  Code Detector for Competitive Programming
-** AI Builders 2025 **
+AI Builders 2025 Project.
 
 ## 🎯 Project Overview 🎯
 This project focuses on building a machine learning model to **detect AI-generated C++ code** in the context of competitive programming. To classify between code written by humans and that produced by AI models.
@@ -15,7 +15,7 @@ This project focuses on building a machine learning model to **detect AI-generat
 - **[@PakinDioxide](https://github.com/PakinDioxide) and [@ttamx](https://github.com/ttamx)**  
   For contributing C++ source code used in training and evaluation.
 
-- **[@Gabriel-Dalton](https://github.com/Gabriel-Dalton/AI-Code-Detector) 
+- **[@Gabriel-Dalton](https://github.com/Gabriel-Dalton/AI-Code-Detector)**
   For the baseline (AI Code Detector)
 
 - **People from the discord [Neighborhood Cat's server](https://discord.gg/QAwCCgP5jb)**

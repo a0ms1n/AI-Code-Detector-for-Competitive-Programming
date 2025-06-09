@@ -1,8 +1,8 @@
 # AI Builders 2025 : AI  Code Detector for Competitive Programming
 
 ## Links
-- [Read the Medium blog](https://medium.com/@pakinsukchan/ai-code-detector-for-competitive-programming-e6e8ecb275f7)
 - [Try out the application](https://huggingface.co/spaces/a0ms1n/AI-Code-Detector_for-Competitive-Programming)
+- [Read the Medium blog](https://medium.com/@pakinsukchan/ai-code-detector-for-competitive-programming-e6e8ecb275f7)
 - [Deployment repository](https://huggingface.co/spaces/a0ms1n/AI-Code-Detector_for-Competitive-Programming/tree/main)
 
 ## 🎯 Project Overview 🎯

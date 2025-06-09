@@ -13,8 +13,8 @@
 - [V.0.4.3](https://colab.research.google.com/drive/1fShdnSpI2myPcZfLN8zkYoRKJYgDfV73?usp=sharing)
 - [V.0.4.4](https://colab.research.google.com/drive/1g4kyFo5egZtaeHkl1_124EBhIybb2Czk?usp=sharing)
 - [V.0.5.1](https://colab.research.google.com/drive/1kMdAEaVx93b-KAvkqXSmcb1vaekbVfgp?usp=sharing)
-- [V.0.5.2 or V.1.2](https://colab.research.google.com/drive/1oQgoQuqiPoChH7SbWb4Bbta-REKnXEHq?usp=sharing)
-- [V.0.5.1 or V.1.1](https://colab.research.google.com/drive/1rmrtHhgF7xOLhlGxRC-qDT4DfXn842fM?usp=sharing)
+- [V.0.5.2 or V.1.1](https://colab.research.google.com/drive/1rmrtHhgF7xOLhlGxRC-qDT4DfXn842fM?usp=sharing)
+- [V.0.5.3 or V.1.2](https://colab.research.google.com/drive/1oQgoQuqiPoChH7SbWb4Bbta-REKnXEHq?usp=sharing)
 
 ### Others
 - [Data Augment](https://colab.research.google.com/drive/1Y7o757G9moJ3qjK8ZaZTrpUKyoc80rmk?usp=sharing)

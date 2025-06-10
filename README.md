@@ -1,4 +1,4 @@
-# AI Builders 2025 : AI  Code Detector for Competitive Programming
+# AI Builders 2025 : AI-Code Detector for Competitive Programming
 
 ## Links
 - [Try out the application](https://huggingface.co/spaces/a0ms1n/AI-Code-Detector_for-Competitive-Programming)
